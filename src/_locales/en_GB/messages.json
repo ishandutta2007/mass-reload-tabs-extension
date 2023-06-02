@@ -1,12 +1,12 @@
 {
   "appName": {
-    "message": "Mass Reload Tabs − view tabs vertically in sidebar"
+    "message": "Mass Reload Tabs − reload all tabs at once"
   },
   "appShortName": {
     "message": "Mass Reload Tabs"
   },
   "appDesc": {
-    "message": "Clean and simple ToDo list accessible right from the page."
+    "message": "Refresh / Reload all the tabs at once click"
   },
   "placeholder": {
     "message": "Search tab"
