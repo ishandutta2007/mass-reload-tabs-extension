@@ -27,7 +27,8 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9",
     "webpack-extension-reloader": "^1.1.1",
-    "webpack-manifest-version-sync-plugin": "^0.0.2"
+    "webpack-manifest-version-sync-plugin": "^0.0.2",
+    "zip-webpack-plugin": "^4.0.1"
   },
   "dependencies": {
     "@styled-system/prop-types": "^5.1.2",
@@ -44,8 +45,8 @@
     "styled-components": "^4.4.0",
     "styled-system": "^5.1.2",
     "ts-loader": "^8.4.0",
+    "uglifyjs-webpack-plugin": "^1.2.6",
     "use-click-outside": "^1.1.0",
-    "webextension-polyfill": "^0.5.0",
-    "uglifyjs-webpack-plugin": "^1.2.6"
+    "webextension-polyfill": "^0.5.0"
   }
 }
