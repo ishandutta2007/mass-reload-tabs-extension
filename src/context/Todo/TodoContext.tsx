@@ -75,27 +75,27 @@ const TodoProvider = ({ children }) => {
   }, []);
   // Initialize the list with saved items or with initial data
   useEffect(async () => {
-    browser.runtime.sendMessage({ greeting: "getTabInfo" })
-    browser.runtime.onMessage.addListener((msg) => {
-      if (msg.greeting === 'sendTabInfo') {
-        const { tabs } = msg.payload;
-        console.log('TodoContext:tabs:', tabs);
-        let tabs_min = [];
-        tabs.forEach((tab) => {
-          tabs_min.push({
-            'id': tab.id,
-            'text': tab.title,
-            'isDone': false,
-            'active': tab.active,
-            'added': new Date().toDateString()
-          });
-        });
-        console.log('TodoContext:tabs_min:', tabs_min);
-        console.log('TodoContext:Number of tabs:', tabs.length);
-        dispatch({ type: INIT, payload: tabs_min });
-      }
-      return true;
-    });
+    // browser.runtime.sendMessage({ greeting: "getTabInfo" })
+    // browser.runtime.onMessage.addListener((msg) => {
+    //   if (msg.greeting === 'sendTabInfo') {
+    //     const { tabs } = msg.payload;
+    //     console.log('TodoContext:tabs:', tabs);
+    //     let tabs_min = [];
+    //     tabs.forEach((tab) => {
+    //       tabs_min.push({
+    //         'id': tab.id,
+    //         'text': tab.title,
+    //         'isDone': false,
+    //         'active': tab.active,
+    //         'added': new Date().toDateString()
+    //       });
+    //     });
+    //     console.log('TodoContext:tabs_min:', tabs_min);
+    //     console.log('TodoContext:Number of tabs:', tabs.length);
+    //     dispatch({ type: INIT, payload: tabs_min });
+    //   }
+    //   return true;
+    // });
     initRef.current = true;
   }, []);
   return (

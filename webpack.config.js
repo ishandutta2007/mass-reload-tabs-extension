@@ -68,7 +68,7 @@ module.exports = {
     //   manifest: path.resolve(__dirname, './src/manifest.json'),
     // }),
     // new ManifestVersionSyncPlugin(),
-    new BrowserExtensionPlugin({devMode: false, name: "build/chromium.zip", directory: "src", updateType: "minor"}),
+    // new BrowserExtensionPlugin({devMode: false, name: "build/chromium.zip", directory: "src", updateType: "none"}),
   ],
   optimization: {
     // minimize: true,
@@ -76,7 +76,7 @@ module.exports = {
       new UglifyJSPlugin({
         uglifyOptions: {
           compress: {
-            drop_console: true,
+            // drop_console: true,
             drop_debugger: true,
           }
         }

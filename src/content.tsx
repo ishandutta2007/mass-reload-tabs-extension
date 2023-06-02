@@ -55,20 +55,20 @@ const App = () => {
     if (Global.sidebar_locked == false)
       toggle(false);
   });
-  return (
-    <StyleSheetManager target={styleContainer}>
-      <OptionsProvider>
-        <ThemeProvider>
-          <TodoProvider>
-            <GlobalStyle />
-            <FixedPlusButton onClick={() => toggle(!isActive)} />
-            <FixedTodoContainer active={isActive||Global.sidebar_locked} ref={ref}>
-              <Todo />
-            </FixedTodoContainer>
-          </TodoProvider>
-        </ThemeProvider>
-      </OptionsProvider>
-    </StyleSheetManager>
+  return (<div/>
+    // <StyleSheetManager target={styleContainer}>
+    //   <OptionsProvider>
+    //     <ThemeProvider>
+    //       <TodoProvider>
+    //         <GlobalStyle />
+    //         <FixedPlusButton onClick={() => toggle(!isActive)} />
+    //         <FixedTodoContainer active={isActive||Global.sidebar_locked} ref={ref}>
+    //           <Todo />
+    //         </FixedTodoContainer>
+    //       </TodoProvider>
+    //     </ThemeProvider>
+    //   </OptionsProvider>
+    // </StyleSheetManager>
   );
 };
 ReactDOM.render(<App />, appContainer);
