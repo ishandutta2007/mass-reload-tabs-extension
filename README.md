@@ -4,7 +4,7 @@
 <div align="center">
 
 
-### Relods without freesing your browser
+### Relods without freezing your browser
 
 
 
