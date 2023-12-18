@@ -7,10 +7,6 @@
 ### Relods without freesing your browser
 
 
-[![author][author-image]][author-url]
-[![license][license-image]][license-url]
-[![release][release-image]][release-url]
-[![last commit][last-commit-image]][last-commit-url]
 
 [![Join us on Discord](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
 
