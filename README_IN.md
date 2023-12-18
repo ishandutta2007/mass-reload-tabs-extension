@@ -1,33 +1,32 @@
+<h1 align = "center"> tab muat ulang - daftar todo sederhana dan bersih </h1>
 
-<h1 align="center">Mass Reload Tabs − simple and clean todo list</h1>
-
-<div align="center">
-
-
-### Relods without freezing your browser
+<Div Align = "Center">
 
 
+### Relods tanpa membekukan browser Anda
 
-[![Join us on Discord](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
+
+
+[! [Bergabunglah dengan kami di Discord] (https://invidget.switchblade.xyz/jc4xtf58ve)] (https://discord.gg/jc4xtf58ve)
 
 ##
-English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_ZH-CN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [繁體中文](README_ZH-TW.md) &nbsp;&nbsp;|&nbsp;&nbsp; [日本語](README_JA.md)
+Bahasa Inggris & nbsp; & nbsp; | & nbsp; & nbsp; [Indonesia] (readme_in.md) & nbsp; & nbsp; | & nbsp; & nbsp; [简体 中文] (readme_zh-cn.md) & nbsp; & nbsp; | & nbsp; & nbsp; [繁體 中文] (readme_zh-tw.md) & nbsp; & nbsp; | & nbsp; & nbsp; [日本語] (readme_ja.md)
 
 ##
 
 ### Install
 
-<a href="https://chromewebstore.google.com/detail/mass-reload-tabs-%E2%88%92-reload/acdllffcofplaibglnoggdlpciplfoed">
-    <img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="Get MultiGPT for Chromium">    
-</a><a href="https://microsoftedge.microsoft.com/addons/detail/ncikcanpodoeekdggonpomoplgkchdnp">
-    <img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="Get MultiGPT for Microsoft Edge">
+<a href="https://chromewebstore.google.com/detail/mass-reload-tabs-%e2%88%92-reload/acdllffcofplaibglnoggdlpciplfoed">
+     <img src = "https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" lebar = "200" 200 "200" 200 "200"
+</a> <a href="https://microsoftedge.microsoft.com/addons/detail/ncikCanpodoeekdggonpomoplgkchdnp">
+     <img src = "https://user-images.githubusercontent.com/64502893/231911158-1B54F831-2FDC-43B6-BF9A-F894000E5AA8.PNG" LODTH = "160" ALT = "Get MultigPpt untuk MultigPPT untuk MICROSOF" ALT = "160" ALT = "Get" 160 "Alt =" Get "160" alt = "Get" 160 "alt =" get "160" alt = "get" 160 "alt =" get "160" alt = "160" get "160" get "160" for "160"
 </a>
 
 
-<h1 align="center">Mass Reload Tabs − simple and clean todo list</h1>
+<h1 align = "center"> tab muat ulang - daftar todo sederhana dan bersih </h1>
 
-> This extension was made with [react-browser-extension-boilerplate](https://github.com/ElForastero/react-browser-extension-boilerplate)
+> Ekstensi ini dibuat dengan [react-browser-extension-boilerplate] (https://github.com/elforastero/react browser-extension-boilerplate)
 
-![Example](example.gif)
+! [Contoh] (example.gif)
 
 ---
