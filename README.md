@@ -1,5 +1,5 @@
 
-<h1 align="center">Mass Reload Tabs − simple and clean todo list</h1>
+<h1 align="center">Mass Reload Tabs − reload tabs without freezing</h1>
 
 <div align="center">
 
@@ -23,8 +23,12 @@ English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&
     <img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="Get MultiGPT for Microsoft Edge">
 </a>
 
+It refreshes all the tabs currently open in your browser.
+Note you must pin the extension to be able to work.
+You just have to click the pinned icon on your taskbar once.
 
-<h1 align="center">Mass Reload Tabs − simple and clean todo list</h1>
+Most reload tab utility hogs the system and freezes browsers as they try to reload everything at the same time. As a solution we introduced a delay between my reloads; not only that the delays increases based on number of tabs you have opened.
+
 
 > This extension was made with [react-browser-extension-boilerplate](https://github.com/ElForastero/react-browser-extension-boilerplate)
 
