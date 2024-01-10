@@ -30,8 +30,4 @@ You just have to click the pinned icon on your taskbar once.
 Most reload tab utility hogs the system and freezes browsers as they try to reload everything at the same time. As a solution we introduced a delay between my reloads; not only that the delays increases based on number of tabs you have opened.
 
 
-> This extension was made with [react-browser-extension-boilerplate](https://github.com/ElForastero/react-browser-extension-boilerplate)
-
-![Example](example.gif)
-
 ---
